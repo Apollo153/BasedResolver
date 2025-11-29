@@ -1,7 +1,6 @@
 # Based Resolver 
 # Resolver used only for PenaBlox HVH!
 # USE ON A ALTERNATE ACCOUNT THIS WILL GET YOU BANNED IF YOUR CAUGHT!!!
-# -----
 # How to use:
 Use a executor ( thats not shitty )
 Now you need to bypass Penablox AC, do that by executing the script below
